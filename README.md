@@ -83,15 +83,7 @@ Multimodal AI, Human-Robot Interaction
 
 <br>
 
-<div align="center">
 
-## 📊 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=bokyung08&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bokyung08&layout=compact&theme=tokyonight)
-
-</div>
 
 <br>
 
