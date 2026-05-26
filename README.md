@@ -1,6 +1,3 @@
-<div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=rect&color=6da800&height=180&text=I'M%20Bokyung&fontColor=ffffff&fontSize=70" />
-</div>
 
 <div align="center">
 
