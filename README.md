@@ -6,8 +6,8 @@
 
 # 👋 About Me
 
-🎓 AI Student @ Chonnam National University  
-🔬 Interested in Multimodal AI, Human-Robot Interaction
+🎓 AI Student @ Chonnam National University  <br> 
+🔬 Interested in Multimodal AI, Human-Robot Interaction <br>
 🛠 Building AI & Software & Embedded 
 </div>
 
