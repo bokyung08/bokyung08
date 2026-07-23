@@ -5,7 +5,6 @@
 
 🎓 AI Student @ Chonnam National University  <br> 
 🔬 Interested in Multimodal AI, Human-Robot Interaction <br>
-🛠 Building AI & Software & Embedded 
 </div>
 
 <br>
@@ -14,7 +13,7 @@
 
 # 🔍 Research Interests
 
-Multimodal AI, Human-Robot Interaction
+Robot Learning
 
 </div>
 
