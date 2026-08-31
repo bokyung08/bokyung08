@@ -45,7 +45,6 @@ Robot Learning, Reinforcement Learning
 <img src="https://img.shields.io/badge/NVIDIA%20Isaac%20Sim-76B900?style=for-the-badge&logo=nvidia&logoColor=white">
 <img src="https://img.shields.io/badge/MuJoCo-000000?style=for-the-badge&logoColor=white">
 <img src="https://img.shields.io/badge/Gymnasium-0081A5?style=for-the-badge&logoColor=white">
-<img src="https://img.shields.io/badge/Weights%20%26%20Biases-FFBE00?style=for-the-badge&logo=weightsandbiases&logoColor=black">
 <br>
 
 <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=Unity&logoColor=white">
